@@ -1,13 +1,13 @@
-# Retos de progrmación
+# Retos de programación
 
 
-Bienvenidos! :beers:
+¡Bienvenidos! :beers:
 
-## ¿Qué vas a encontrar acá?
+## ¿Qué vas a encontrar aquí?
                 
 
-Este repositorio tiene el fin de almacenar los retos de programación propuestos por [Platzi](https://platzi.com/ "Platzi")  y así reforzar el aprendizaje y **nunca parar de aprender.**
+Este repositorio tiene el fin de almacenar los retos de programación propuestos por [Platzi](https://platzi.com/ "Platzi"), reforzar el aprendizaje y **nunca parar de aprender.**
 
 El lenguaje con el que se realizan los retos es Python :snake:
 
-Además, les cuento que hago parte de Platzi Master.:thumbsup:
+Además, les cuento que hago parte de Platzi Master :thumbsup:
