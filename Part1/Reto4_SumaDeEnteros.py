@@ -5,7 +5,7 @@ def suma(a, b):
     return total
 
 def iniciateSum():
-    print('¡B I E N V E N I D O')
+    print('¡B I E N V E N I D O!')
     n1 = float(input('Ingresa el primer número: '))
     n2 = float(input('Ingresa el segundo número: '))
 
